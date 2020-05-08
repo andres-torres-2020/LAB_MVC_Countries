@@ -1,0 +1,12 @@
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_MVC_Countries\LAB_MVC_Countries\bin\Debug\netcoreapp3.1\LAB_MVC_Countries.exe
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_MVC_Countries\LAB_MVC_Countries\bin\Debug\netcoreapp3.1\LAB_MVC_Countries.deps.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_MVC_Countries\LAB_MVC_Countries\bin\Debug\netcoreapp3.1\LAB_MVC_Countries.runtimeconfig.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_MVC_Countries\LAB_MVC_Countries\bin\Debug\netcoreapp3.1\LAB_MVC_Countries.runtimeconfig.dev.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_MVC_Countries\LAB_MVC_Countries\bin\Debug\netcoreapp3.1\LAB_MVC_Countries.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_MVC_Countries\LAB_MVC_Countries\bin\Debug\netcoreapp3.1\LAB_MVC_Countries.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_MVC_Countries\LAB_MVC_Countries\obj\Debug\netcoreapp3.1\LAB_MVC_Countries.csproj.CoreCompileInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_MVC_Countries\LAB_MVC_Countries\obj\Debug\netcoreapp3.1\LAB_MVC_Countries.AssemblyInfoInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_MVC_Countries\LAB_MVC_Countries\obj\Debug\netcoreapp3.1\LAB_MVC_Countries.AssemblyInfo.cs
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_MVC_Countries\LAB_MVC_Countries\obj\Debug\netcoreapp3.1\LAB_MVC_Countries.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_MVC_Countries\LAB_MVC_Countries\obj\Debug\netcoreapp3.1\LAB_MVC_Countries.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_MVC_Countries\LAB_MVC_Countries\obj\Debug\netcoreapp3.1\LAB_MVC_Countries.genruntimeconfig.cache

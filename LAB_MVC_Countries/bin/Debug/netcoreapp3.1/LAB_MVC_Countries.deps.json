@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LAB_MVC_Countries/1.0.0": {
+        "runtime": {
+          "LAB_MVC_Countries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB_MVC_Countries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
